@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bij:home|Door43 (bij)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bij|d43-bij repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bij/archive/master.zip|d43-bij.zip]]
+
+**Recent Changes**
+{{changes>ns = bij}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bij|Ethnologue data]]
+
